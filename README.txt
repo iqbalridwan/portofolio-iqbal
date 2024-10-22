@@ -1,18 +1,6 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
-
-Credits:
-
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		JQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-		Isotope: 			(https://isotope.metafizzy.co/) 
-		Google Maps:		(https://maps.google.com)
+Nama saya Iqbal Ridwan Darmawan. Saya lulusan S1 Teknik Informatika di
+Universitas Muhammadiyah Magelang. Saya memiliki pengalaman profesional
+IT(Information Technology) yang efisien dan terorganisir dengan pengalaman 3 tahun
+dalam memberikan dukungan IT.Mahir dalam menangani pertanyaan layanan
+karyawan dan mengelola perangkat IT sehari-hari. Berpengalaman dalam bekerja di
+lingkungan yang serba cepat, mengelola banyak tugas di instansi sebelumnya
