@@ -13,6 +13,16 @@
 	<link rel="stylesheet" href="assets/css/johndoe.css">
 
 </head>
+<script>
+    // Mengambil nilai pengunjung dari localStorage atau menginisialisasinya dengan 0
+    let visitorCount = localStorage.getItem("visitorCount") || 0;
+    // Menambahkan 1 pada setiap kunjungan baru
+    visitorCount++;
+    // Menyimpan kembali nilai pengunjung yang diperbarui ke localStorage
+    localStorage.setItem("visitorCount", visitorCount);
+    // Menampilkan nilai pengunjung di elemen HTML
+    document.getElementById("visitor-count").innerText = visitorCount;
+</script>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
     <header class="header">
         <div class="container">
@@ -317,6 +327,7 @@
             <p class="small mb-0 text-light">
                 &copy; <script>document.write(new Date().getFullYear())</script> Created With <i class="ti-heart text-danger"></i> By <a href="https://clicky.id/mystogancorp" target="_blank"><span class="text-danger" title="Bootstrap 4 Themes and Dashboards">Me</span></a> 
             </p>
+		 <p class="small mb-0 text-light">Visitors: <span id="visitor-count">0</span></p>
         </div>
     </footer>
 
@@ -332,8 +343,6 @@
     
     <!-- Google mpas -->
     <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtme10pzgKSPeJVJrG1O3tjR6lk98o4w8&callback=initMap"></script> -->
-
-    <!-- JohnDoe js -->
     <script src="assets/js/johndoe.js"></script>
 
 </body>
